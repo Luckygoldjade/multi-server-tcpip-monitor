@@ -7,7 +7,6 @@ A Python-based distributed network monitoring system using persistent TCP connec
 ## Repository Structure
 
 ```bash
-.
 - Management_Service.py       # Central service that distributes tasks and receives results
 - Monitoring_Service.py       # Simulates a remote node monitoring network services
 - UDP_echo_server.py          # Optional echo server to simulate a testable service
@@ -146,7 +145,7 @@ Each station's thread will:
 
 ## Screenshots
 
-> Add screenshots inside `docs/screenshots/` and embed below.
+> Screenshots inside `docs/screenshots/` and embed below.
 
 ### Management Dashboard (Terminal)
 ![Management Service](docs/screenshots/management_dashboard.png)
@@ -158,7 +157,7 @@ Each station's thread will:
 
 ## Final Report
 
-> Add your report as `docs/final_report.pdf`
+> Final report inside `docs/final_report.pdf`
 
 [View Final Report (PDF)](docs/final_report.pdf)
 
@@ -167,15 +166,6 @@ The report includes:
 - Screenshots with labels
 - Code snippets showing SRS fulfillment
 - Commentary on design decisions and implementation
-
----
-
-## Future Improvements
-
-- GUI for visual status dashboard
-- REST API for remote control and config
-- Config persistence with JSON/YAML files
-- Thread pooling and async support
 
 ---
 
