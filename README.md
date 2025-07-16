@@ -159,7 +159,7 @@ Each station's thread will:
 
 > Final report inside `docs/final_report.pdf`
 
-[View Final Report (PDF)](docs/final_report.pdf)
+[View Final Report (PDF)](docs/Sockets_Project_2_SPP2_051524_v01.pdf)
 
 The report includes:
 - Run commands and setup
