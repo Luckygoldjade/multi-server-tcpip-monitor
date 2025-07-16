@@ -148,11 +148,12 @@ Each station's thread will:
 > Screenshots inside `docs/screenshots/` and embed below.
 
 ### Management Dashboard (Terminal)
-![Management Service](docs/screenshots/management_dashboard.png)
+![Management Service](docs/screenshots/Fig_18_management_service_output.png)
 
 ### Monitoring Service Status
-![Monitoring Service](docs/screenshots/monitoring_status.png)
+![Monitoring Service](docs/screenshots/Fig_14_monitoring_service_output.png)
 
+More screenshots in folder
 ---
 
 ## Final Report
